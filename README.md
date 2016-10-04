@@ -1,3 +1,6 @@
+## This project is part Udacity's Nanodegree in Machine Learning.
+
+
 # Project 3: Unsupervised Learning
 ## Creating Customer Segments
 
