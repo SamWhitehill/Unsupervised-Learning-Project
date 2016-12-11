@@ -1,5 +1,6 @@
 ## This project is part Udacity's Nanodegree in Machine Learning.
 ###The dataset is stored in the csv file customers.csv
+###The project code and results are located in the customer_segments.ipynb file.
 
 
 # Project 3: Unsupervised Learning
